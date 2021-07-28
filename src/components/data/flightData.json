@@ -1,0 +1,1122 @@
+[
+  {
+    "Mumbai": [
+      {
+        "0": [
+          {
+            "id": "0",
+            "departureDate": "2020-08-20",
+            "arrivalDate": "2020-08-21",
+            "img": "https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/I5.png?v=6",
+            "departureTime": "9:25",
+            "arrivalTime": "16:45",
+            "flightName": "AirAsia",
+            "From": {
+              "value": "Mumbai (BOM)"
+            },
+            "To": {
+              "value": "Hyderabad (HYD)"
+            },
+            "price": "6793",
+            "returnPrice": "12496"
+          },
+          {
+            "id": "1",
+            "departureDate": "2020-08-20",
+            "arrivalDate": "2020-08-21",
+            "img": "https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/AI.png?v=6",
+            "departureTime": "10:05",
+            "arrivalTime": "18:20",
+            "flightName": "AirIndia",
+            "From": {
+              "value": "Mumbai (BOM)"
+            },
+            "To": {
+              "value": "Hyderabad (HYD)"
+            },
+            "price": "2793",
+            "returnPrice": "10496"
+          },
+          {
+            "id": "2",
+            "departureDate": "2020-08-20",
+            "arrivalDate": "2020-08-21",
+            "img": "https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/SG.png?v=6",
+            "departureTime": "15:25",
+            "arrivalTime": "21:15",
+            "flightName": "Spicejet",
+            "From": {
+              "value": "Mumbai (BOM)"
+            },
+            "To": {
+              "value": "Hyderabad (HYD)"
+            },
+            "price": "4840",
+            "returnPrice": "8851"
+          }
+        ]
+      },
+      {
+        "1": [
+          {
+            "id": "3",
+            "departureDate": "2020-08-20",
+            "arrivalDate": "2020-08-21",
+            "img": "https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/AI.png?v=6",
+            "departureTime": "10:05",
+            "arrivalTime": "18:20",
+            "flightName": "AirIndia",
+            "From": {
+              "value": "Mumbai (BOM)"
+            },
+            "To": {
+              "value": "Bengaluru (BLR)"
+            },
+            "price": "6245",
+            "returnPrice": "15541"
+          },
+          {
+            "id": "4",
+            "departureDate": "2020-08-20",
+            "arrivalDate": "2020-08-21",
+            "img": "https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/I5.png?v=6",
+            "departureTime": "9:25",
+            "arrivalTime": "16:45",
+            "flightName": "AirAsia",
+            "From": {
+              "value": "Mumbai (BOM)"
+            },
+            "To": {
+              "value": "Bengaluru (BLR)"
+            },
+            "price": "3123",
+            "returnPrice": "10459"
+          },
+          {
+            "id": "5",
+            "departureDate": "2020-08-20",
+            "arrivalDate": "2020-08-21",
+            "img": "https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/SG.png?v=6",
+            "departureTime": "15:25",
+            "arrivalTime": "21:15",
+            "flightName": "Spicejet",
+            "From": {
+              "value": "Mumbai (BOM)"
+            },
+            "To": {
+              "value": "Bengaluru (BLR)"
+            },
+            "price": "8851",
+            "returnPrice": "8952"
+          }
+        ]
+      },
+      {
+        "2": [
+          {
+            "id": "6",
+            "departureDate": "2020-08-20",
+            "arrivalDate": "2020-08-21",
+            "img": "https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/SG.png?v=6",
+            "departureTime": "15:25",
+            "arrivalTime": "21:15",
+            "flightName": "Spicejet",
+            "From": {
+              "value": "Mumbai (BOM)"
+            },
+            "To": {
+              "value": "Ahmedabad (AMD)"
+            },
+            "price": "9248",
+            "returnPrice": "14752"
+          },
+          {
+            "id": "7",
+            "departureDate": "2020-08-20",
+            "arrivalDate": "2020-08-21",
+            "img": "https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/AI.png?v=6",
+            "departureTime": "10:05",
+            "arrivalTime": "18:20",
+            "flightName": "AirIndia",
+            "From": {
+              "value": "Mumbai (BOM)"
+            },
+            "To": {
+              "value": "Ahmedabad (AMD)"
+            },
+            "price": "5236",
+            "returnPrice": "18178"
+          },
+          {
+            "id": "8",
+            "departureDate": "2020-08-20",
+            "arrivalDate": "2020-08-21",
+            "img": "https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/I5.png?v=6",
+            "departureTime": "9:25",
+            "arrivalTime": "16:45",
+            "flightName": "AirAsia",
+            "From": {
+              "value": "Mumbai (BOM)"
+            },
+            "To": {
+              "value": "Ahmedabad (AMD)"
+            },
+            "price": "3614",
+            "returnPrice": "11524"
+          }
+        ]
+      },
+      {
+        "3": [
+          {
+            "id": "9",
+            "departureDate": "2020-08-20",
+            "arrivalDate": "2020-08-21",
+            "img": "https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/AI.png?v=6",
+            "departureTime": "10:05",
+            "arrivalTime": "18:20",
+            "flightName": "AirIndia",
+            "From": {
+              "value": "Mumbai (BOM)"
+            },
+            "To": {
+              "value": "Chennai (MAA)"
+            },
+            "price": "7510",
+            "returnPrice": "12751"
+          },
+          {
+            "id": "10",
+            "departureDate": "2020-08-20",
+            "arrivalDate": "2020-08-21",
+            "img": "https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/I5.png?v=6",
+            "departureTime": "9:25",
+            "arrivalTime": "16:45",
+            "flightName": "AirAsia",
+            "From": {
+              "value": "Mumbai (BOM)"
+            },
+            "To": {
+              "value": "Chennai (MAA)"
+            },
+            "price": "4851",
+            "returnPrice": "16178"
+          },
+          {
+            "id": "11",
+            "departureDate": "2020-08-20",
+            "arrivalDate": "2020-08-21",
+            "img": "https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/SG.png?v=6",
+            "departureTime": "15:25",
+            "arrivalTime": "21:15",
+            "flightName": "Spicejet",
+            "From": {
+              "value": "Mumbai (BOM)"
+            },
+            "To": {
+              "value": "Chennai (MAA)"
+            },
+            "price": "10512",
+            "returnPrice": "10475"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Hyderabad": [
+      {
+        "0": [
+          {
+            "id": "0",
+            "departureDate": "2020-08-20",
+            "arrivalDate": "2020-08-21",
+            "img": "https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/I5.png?v=6",
+            "departureTime": "9:25",
+            "arrivalTime": "16:45",
+            "flightName": "AirAsia",
+            "From": {
+              "value": "Hyderabad (HYD)"
+            },
+            "To": {
+              "value": "Mumbai (BOM)"
+            },
+            "price": "6793",
+            "returnPrice": "12496"
+          },
+          {
+            "id": "1",
+            "departureDate": "2020-08-20",
+            "arrivalDate": "2020-08-21",
+            "img": "https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/AI.png?v=6",
+            "departureTime": "10:05",
+            "arrivalTime": "18:20",
+            "flightName": "AirIndia",
+            "From": {
+              "value": "Hyderabad (HYD)"
+            },
+            "To": {
+              "value": "Mumbai (BOM)"
+            },
+            "price": "9793",
+            "returnPrice": "13496"
+          },
+          {
+            "id": "2",
+            "departureDate": "2020-08-20",
+            "arrivalDate": "2020-08-21",
+            "img": "https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/SG.png?v=6",
+            "departureTime": "15:25",
+            "arrivalTime": "21:15",
+            "flightName": "Spicejet",
+            "From": {
+              "value": "Hyderabad (HYD)"
+            },
+            "To": {
+              "value": "Mumbai (BOM)"
+            },
+            "price": "2840",
+            "returnPrice": "16851"
+          }
+        ]
+      },
+      {
+        "1": [
+          {
+            "id": "3",
+            "departureDate": "2020-08-20",
+            "arrivalDate": "2020-08-21",
+            "img": "https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/AI.png?v=6",
+            "departureTime": "10:05",
+            "arrivalTime": "18:20",
+            "flightName": "AirIndia",
+            "From": {
+              "value": "Hyderabad (HYD)"
+            },
+            "To": {
+              "value": "Bengaluru (BLR)"
+            },
+            "price": "8245",
+            "returnPrice": "16541"
+          },
+          {
+            "id": "4",
+            "departureDate": "2020-08-20",
+            "arrivalDate": "2020-08-21",
+            "img": "https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/I5.png?v=6",
+            "departureTime": "9:25",
+            "arrivalTime": "16:45",
+            "flightName": "AirAsia",
+            "From": {
+              "value": "Hyderabad (HYD)"
+            },
+            "To": {
+              "value": "Bengaluru (BLR)"
+            },
+            "price": "5123",
+            "returnPrice": "10459"
+          },
+          {
+            "id": "5",
+            "departureDate": "2020-08-20",
+            "arrivalDate": "2020-08-21",
+            "img": "https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/SG.png?v=6",
+            "departureTime": "15:25",
+            "arrivalTime": "21:15",
+            "flightName": "Spicejet",
+            "From": {
+              "value": "Hyderabad (HYD)"
+            },
+            "To": {
+              "value": "Bengaluru (BLR)"
+            },
+            "price": "4851",
+            "returnPrice": "8952"
+          }
+        ]
+      },
+      {
+        "2": [
+          {
+            "id": "6",
+            "departureDate": "2020-08-20",
+            "arrivalDate": "2020-08-21",
+            "img": "https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/SG.png?v=6",
+            "departureTime": "15:25",
+            "arrivalTime": "21:15",
+            "flightName": "Spicejet",
+            "From": {
+              "value": "Hyderabad (HYD)"
+            },
+            "To": {
+              "value": "Ahmedabad (AMD)"
+            },
+            "price": "9248",
+            "returnPrice": "18752"
+          },
+          {
+            "id": "7",
+            "departureDate": "2020-08-20",
+            "arrivalDate": "2020-08-21",
+            "img": "https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/AI.png?v=6",
+            "departureTime": "10:05",
+            "arrivalTime": "18:20",
+            "flightName": "AirIndia",
+            "From": {
+              "value": "Hyderabad (HYD)"
+            },
+            "To": {
+              "value": "Ahmedabad (AMD)"
+            },
+            "price": "5236",
+            "returnPrice": "10178"
+          },
+          {
+            "id": "8",
+            "departureDate": "2020-08-20",
+            "arrivalDate": "2020-08-21",
+            "img": "https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/I5.png?v=6",
+            "departureTime": "9:25",
+            "arrivalTime": "16:45",
+            "flightName": "AirAsia",
+            "From": {
+              "value": "Hyderabad (HYD)"
+            },
+            "To": {
+              "value": "Ahmedabad (AMD)"
+            },
+            "price": "3614",
+            "returnPrice": "9524"
+          }
+        ]
+      },
+      {
+        "3": [
+          {
+            "id": "9",
+            "departureDate": "2020-08-20",
+            "arrivalDate": "2020-08-21",
+            "img": "https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/AI.png?v=6",
+            "departureTime": "10:05",
+            "arrivalTime": "18:20",
+            "flightName": "AirIndia",
+            "From": {
+              "value": "Hyderabad (HYD)"
+            },
+            "To": {
+              "value": "Chennai (MAA)"
+            },
+            "price": "7510",
+            "returnPrice": "12751"
+          },
+          {
+            "id": "10",
+            "departureDate": "2020-08-20",
+            "arrivalDate": "2020-08-21",
+            "img": "https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/I5.png?v=6",
+            "departureTime": "9:25",
+            "arrivalTime": "16:45",
+            "flightName": "AirAsia",
+            "From": {
+              "value": "Hyderabad (HYD)"
+            },
+            "To": {
+              "value": "Chennai (MAA)"
+            },
+            "price": "3851",
+            "returnPrice": "9178"
+          },
+          {
+            "id": "11",
+            "departureDate": "2020-08-20",
+            "arrivalDate": "2020-08-21",
+            "img": "https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/SG.png?v=6",
+            "departureTime": "15:25",
+            "arrivalTime": "21:15",
+            "flightName": "Spicejet",
+            "From": {
+              "value": "Hyderabad (HYD)"
+            },
+            "To": {
+              "value": "Chennai (MAA)"
+            },
+            "price": "5512",
+            "returnPrice": "18475"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Bengaluru": [
+      {
+        "0": [
+          {
+            "id": "0",
+            "departureDate": "2020-08-20",
+            "arrivalDate": "2020-08-21",
+            "img": "https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/I5.png?v=6",
+            "departureTime": "9:25",
+            "arrivalTime": "16:45",
+            "flightName": "AirAsia",
+            "From": {
+              "value": "Bengaluru (BLR)"
+            },
+            "To": {
+              "value": "Mumbai (BOM)"
+            },
+            "price": "6793",
+            "returnPrice": "12496"
+          },
+          {
+            "id": "1",
+            "departureDate": "2020-08-20",
+            "arrivalDate": "2020-08-21",
+            "img": "https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/AI.png?v=6",
+            "departureTime": "10:05",
+            "arrivalTime": "18:20",
+            "flightName": "AirIndia",
+            "From": {
+              "value": "Bengaluru (BLR)"
+            },
+            "To": {
+              "value": "Mumbai (BOM)"
+            },
+            "price": "4793",
+            "returnPrice": "8496"
+          },
+          {
+            "id": "2",
+            "departureDate": "2020-08-20",
+            "arrivalDate": "2020-08-21",
+            "img": "https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/SG.png?v=6",
+            "departureTime": "15:25",
+            "arrivalTime": "21:15",
+            "flightName": "Spicejet",
+            "From": {
+              "value": "Bengaluru (BLR)"
+            },
+            "To": {
+              "value": "Mumbai (BOM)"
+            },
+            "price": "9840",
+            "returnPrice": "15851"
+          }
+        ]
+      },
+      {
+        "1": [
+          {
+            "id": "3",
+            "departureDate": "2020-08-20",
+            "arrivalDate": "2020-08-21",
+            "img": "https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/AI.png?v=6",
+            "departureTime": "10:05",
+            "arrivalTime": "18:20",
+            "flightName": "AirIndia",
+            "From": {
+              "value": "Bengaluru (BLR)"
+            },
+            "To": {
+              "value": "Hyderabad (HYD)"
+            },
+            "price": "4245",
+            "returnPrice": "8541"
+          },
+          {
+            "id": "4",
+            "departureDate": "2020-08-20",
+            "arrivalDate": "2020-08-21",
+            "img": "https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/I5.png?v=6",
+            "departureTime": "9:25",
+            "arrivalTime": "16:45",
+            "flightName": "AirAsia",
+            "From": {
+              "value": "Bengaluru (BLR)"
+            },
+            "To": {
+              "value": "Hyderabad (HYD)"
+            },
+            "price": "6123",
+            "returnPrice": "12459"
+          },
+          {
+            "id": "5",
+            "departureDate": "2020-08-20",
+            "arrivalDate": "2020-08-21",
+            "img": "https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/SG.png?v=6",
+            "departureTime": "15:25",
+            "arrivalTime": "21:15",
+            "flightName": "Spicejet",
+            "From": {
+              "value": "Bengaluru (BLR)"
+            },
+            "To": {
+              "value": "Hyderabad (HYD)"
+            },
+            "price": "7851",
+            "returnPrice": "14952"
+          }
+        ]
+      },
+      {
+        "2": [
+          {
+            "id": "6",
+            "departureDate": "2020-08-20",
+            "arrivalDate": "2020-08-21",
+            "img": "https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/SG.png?v=6",
+            "departureTime": "15:25",
+            "arrivalTime": "21:15",
+            "flightName": "Spicejet",
+            "From": {
+              "value": "Bengaluru (BLR)"
+            },
+            "To": {
+              "value": "Ahmedabad (AMD)"
+            },
+            "price": "9248",
+            "returnPrice": "18752"
+          },
+          {
+            "id": "7",
+            "departureDate": "2020-08-20",
+            "arrivalDate": "2020-08-21",
+            "img": "https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/AI.png?v=6",
+            "departureTime": "10:05",
+            "arrivalTime": "18:20",
+            "flightName": "AirIndia",
+            "From": {
+              "value": "Bengaluru (BLR)"
+            },
+            "To": {
+              "value": "Ahmedabad (AMD)"
+            },
+            "price": "5236",
+            "returnPrice": "13178"
+          },
+          {
+            "id": "8",
+            "departureDate": "2020-08-20",
+            "arrivalDate": "2020-08-21",
+            "img": "https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/I5.png?v=6",
+            "departureTime": "9:25",
+            "arrivalTime": "16:45",
+            "flightName": "AirAsia",
+            "From": {
+              "value": "Bengaluru (BLR)"
+            },
+            "To": {
+              "value": "Ahmedabad (AMD)"
+            },
+            "price": "3614",
+            "returnPrice": "9524"
+          }
+        ]
+      },
+      {
+        "3": [
+          {
+            "id": "9",
+            "departureDate": "2020-08-20",
+            "arrivalDate": "2020-08-21",
+            "img": "https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/AI.png?v=6",
+            "departureTime": "10:05",
+            "arrivalTime": "18:20",
+            "flightName": "AirIndia",
+            "From": {
+              "value": "Bengaluru (BLR)"
+            },
+            "To": {
+              "value": "Chennai (MAA)"
+            },
+            "price": "7510",
+            "returnPrice": "12751"
+          },
+          {
+            "id": "10",
+            "departureDate": "2020-08-20",
+            "arrivalDate": "2020-08-21",
+            "img": "https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/I5.png?v=6",
+            "departureTime": "9:25",
+            "arrivalTime": "16:45",
+            "flightName": "AirAsia",
+            "From": {
+              "value": "Bengaluru (BLR)"
+            },
+            "To": {
+              "value": "Chennai (MAA)"
+            },
+            "price": "5851",
+            "returnPrice": "10178"
+          },
+          {
+            "id": "11",
+            "departureDate": "2020-08-20",
+            "arrivalDate": "2020-08-21",
+            "img": "https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/SG.png?v=6",
+            "departureTime": "15:25",
+            "arrivalTime": "21:15",
+            "flightName": "Spicejet",
+            "From": {
+              "value": "Bengaluru (BLR)"
+            },
+            "To": {
+              "value": "Chennai (MAA)"
+            },
+            "price": "10512",
+            "returnPrice": "20475"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Ahmedabad": [
+      {
+        "0": [
+          {
+            "id": "0",
+            "departureDate": "2020-08-20",
+            "arrivalDate": "2020-08-21",
+            "img": "https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/I5.png?v=6",
+            "departureTime": "9:25",
+            "arrivalTime": "16:45",
+            "flightName": "AirAsia",
+            "From": {
+              "value": "Ahmedabad (AMD)"
+            },
+            "To": {
+              "value": "Mumbai (BOM)"
+            },
+            "price": "6793",
+            "returnPrice": "12496"
+          },
+          {
+            "id": "1",
+            "departureDate": "2020-08-20",
+            "arrivalDate": "2020-08-21",
+            "img": "https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/AI.png?v=6",
+            "departureTime": "10:05",
+            "arrivalTime": "18:20",
+            "flightName": "AirIndia",
+            "From": {
+              "value": "Ahmedabad (AMD)"
+            },
+            "To": {
+              "value": "Mumbai (BOM)"
+            },
+            "price": "3793",
+            "returnPrice": "9496"
+          },
+          {
+            "id": "2",
+            "departureDate": "2020-08-20",
+            "arrivalDate": "2020-08-21",
+            "img": "https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/SG.png?v=6",
+            "departureTime": "15:25",
+            "arrivalTime": "21:15",
+            "flightName": "Spicejet",
+            "From": {
+              "value": "Ahmedabad (AMD)"
+            },
+            "To": {
+              "value": "Mumbai (BOM)"
+            },
+            "price": "8840",
+            "returnPrice": "16851"
+          }
+        ]
+      },
+      {
+        "1": [
+          {
+            "id": "3",
+            "departureDate": "2020-08-20",
+            "arrivalDate": "2020-08-21",
+            "img": "https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/AI.png?v=6",
+            "departureTime": "10:05",
+            "arrivalTime": "18:20",
+            "flightName": "AirIndia",
+            "From": {
+              "value": "Ahmedabad (AMD)"
+            },
+            "To": {
+              "value": "Hyderabad (HYD)"
+            },
+            "price": "4245",
+            "returnPrice": "8541"
+          },
+          {
+            "id": "4",
+            "departureDate": "2020-08-20",
+            "arrivalDate": "2020-08-21",
+            "img": "https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/I5.png?v=6",
+            "departureTime": "9:25",
+            "arrivalTime": "16:45",
+            "flightName": "AirAsia",
+            "From": {
+              "value": "Ahmedabad (AMD)"
+            },
+            "To": {
+              "value": "Hyderabad (HYD)"
+            },
+            "price": "6123",
+            "returnPrice": "15459"
+          },
+          {
+            "id": "5",
+            "departureDate": "2020-08-20",
+            "arrivalDate": "2020-08-21",
+            "img": "https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/SG.png?v=6",
+            "departureTime": "15:25",
+            "arrivalTime": "21:15",
+            "flightName": "Spicejet",
+            "From": {
+              "value": "Ahmedabad (AMD)"
+            },
+            "To": {
+              "value": "Hyderabad (HYD)"
+            },
+            "price": "8851",
+            "returnPrice": "17952"
+          }
+        ]
+      },
+      {
+        "2": [
+          {
+            "id": "6",
+            "departureDate": "2020-08-20",
+            "arrivalDate": "2020-08-21",
+            "img": "https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/SG.png?v=6",
+            "departureTime": "15:25",
+            "arrivalTime": "21:15",
+            "flightName": "Spicejet",
+            "From": {
+              "value": "Ahmedabad (AMD)"
+            },
+            "To": {
+              "value": "Bengaluru (BLR)"
+            },
+            "price": "9248",
+            "returnPrice": "18752"
+          },
+          {
+            "id": "7",
+            "departureDate": "2020-08-20",
+            "arrivalDate": "2020-08-21",
+            "img": "https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/AI.png?v=6",
+            "departureTime": "10:05",
+            "arrivalTime": "18:20",
+            "flightName": "AirIndia",
+            "From": {
+              "value": "Ahmedabad (AMD)"
+            },
+            "To": {
+              "value": "Bengaluru (BLR)"
+            },
+            "price": "5236",
+            "returnPrice": "16178"
+          },
+          {
+            "id": "8",
+            "departureDate": "2020-08-20",
+            "arrivalDate": "2020-08-21",
+            "img": "https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/I5.png?v=6",
+            "departureTime": "9:25",
+            "arrivalTime": "16:45",
+            "flightName": "AirAsia",
+            "From": {
+              "value": "Ahmedabad (AMD)"
+            },
+            "To": {
+              "value": "Bengaluru (BLR)"
+            },
+            "price": "3614",
+            "returnPrice": "12524"
+          }
+        ]
+      },
+      {
+        "3": [
+          {
+            "id": "9",
+            "departureDate": "2020-08-20",
+            "arrivalDate": "2020-08-21",
+            "img": "https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/AI.png?v=6",
+            "departureTime": "10:05",
+            "arrivalTime": "18:20",
+            "flightName": "AirIndia",
+            "From": {
+              "value": "Ahmedabad (AMD)"
+            },
+            "To": {
+              "value": "Chennai (MAA)"
+            },
+            "price": "7510",
+            "returnPrice": "12751"
+          },
+          {
+            "id": "10",
+            "departureDate": "2020-08-20",
+            "arrivalDate": "2020-08-21",
+            "img": "https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/I5.png?v=6",
+            "departureTime": "9:25",
+            "arrivalTime": "16:45",
+            "flightName": "AirAsia",
+            "From": {
+              "value": "Ahmedabad (AMD)"
+            },
+            "To": {
+              "value": "Chennai (MAA)"
+            },
+            "price": "9851",
+            "returnPrice": "18178"
+          },
+          {
+            "id": "11",
+            "departureDate": "2020-08-20",
+            "arrivalDate": "2020-08-21",
+            "img": "https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/SG.png?v=6",
+            "departureTime": "15:25",
+            "arrivalTime": "21:15",
+            "flightName": "Spicejet",
+            "From": {
+              "value": "Ahmedabad (AMD)"
+            },
+            "To": {
+              "value": "Chennai (MAA)"
+            },
+            "price": "6512",
+            "returnPrice": "20475"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Chennai": [
+      {
+        "0": [
+          {
+            "id": "0",
+            "departureDate": "2020-08-20",
+            "arrivalDate": "2020-08-21",
+            "img": "https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/I5.png?v=6",
+            "departureTime": "9:25",
+            "arrivalTime": "16:45",
+            "flightName": "AirAsia",
+            "From": {
+              "value": "Chennai (MAA)"
+            },
+            "To": {
+              "value": "Mumbai (BOM)"
+            },
+            "price": "6793",
+            "returnPrice": "12496"
+          },
+          {
+            "id": "1",
+            "departureDate": "2020-08-20",
+            "arrivalDate": "2020-08-21",
+            "img": "https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/AI.png?v=6",
+            "departureTime": "10:05",
+            "arrivalTime": "18:20",
+            "flightName": "AirIndia",
+            "From": {
+              "value": "Chennai (MAA)"
+            },
+            "To": {
+              "value": "Mumbai (BOM)"
+            },
+            "price": "2793",
+            "returnPrice": "6496"
+          },
+          {
+            "id": "2",
+            "departureDate": "2020-08-20",
+            "arrivalDate": "2020-08-21",
+            "img": "https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/SG.png?v=6",
+            "departureTime": "15:25",
+            "arrivalTime": "21:15",
+            "flightName": "Spicejet",
+            "From": {
+              "value": "Chennai (MAA)"
+            },
+            "To": {
+              "value": "Mumbai (BOM)"
+            },
+            "price": "9840",
+            "returnPrice": "16851"
+          }
+        ]
+      },
+      {
+        "1": [
+          {
+            "id": "3",
+            "departureDate": "2020-08-20",
+            "arrivalDate": "2020-08-21",
+            "img": "https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/AI.png?v=6",
+            "departureTime": "10:05",
+            "arrivalTime": "18:20",
+            "flightName": "AirIndia",
+            "From": {
+              "value": "Chennai (MAA)"
+            },
+            "To": {
+              "value": "Hyderabad (HYD)"
+            },
+            "price": "4245",
+            "returnPrice": "8541"
+          },
+          {
+            "id": "4",
+            "departureDate": "2020-08-20",
+            "arrivalDate": "2020-08-21",
+            "img": "https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/I5.png?v=6",
+            "departureTime": "9:25",
+            "arrivalTime": "16:45",
+            "flightName": "AirAsia",
+            "From": {
+              "value": "Chennai (MAA)"
+            },
+            "To": {
+              "value": "Hyderabad (HYD)"
+            },
+            "price": "5123",
+            "returnPrice": "13459"
+          },
+          {
+            "id": "5",
+            "departureDate": "2020-08-20",
+            "arrivalDate": "2020-08-21",
+            "img": "https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/SG.png?v=6",
+            "departureTime": "15:25",
+            "arrivalTime": "21:15",
+            "flightName": "Spicejet",
+            "From": {
+              "value": "Chennai (MAA)"
+            },
+            "To": {
+              "value": "Hyderabad (HYD)"
+            },
+            "price": "10851",
+            "returnPrice": "18952"
+          }
+        ]
+      },
+      {
+        "2": [
+          {
+            "id": "6",
+            "departureDate": "2020-08-20",
+            "arrivalDate": "2020-08-21",
+            "img": "https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/SG.png?v=6",
+            "departureTime": "15:25",
+            "arrivalTime": "21:15",
+            "flightName": "Spicejet",
+            "From": {
+              "value": "Chennai (MAA)"
+            },
+            "To": {
+              "value": "Bengaluru (BLR)"
+            },
+            "price": "9248",
+            "returnPrice": "18752"
+          },
+          {
+            "id": "7",
+            "departureDate": "2020-08-20",
+            "arrivalDate": "2020-08-21",
+            "img": "https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/AI.png?v=6",
+            "departureTime": "10:05",
+            "arrivalTime": "18:20",
+            "flightName": "AirIndia",
+            "From": {
+              "value": "Chennai (MAA)"
+            },
+            "To": {
+              "value": "Bengaluru (BLR)"
+            },
+            "price": "7236",
+            "returnPrice": "16178"
+          },
+          {
+            "id": "8",
+            "departureDate": "2020-08-20",
+            "arrivalDate": "2020-08-21",
+            "img": "https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/I5.png?v=6",
+            "departureTime": "9:25",
+            "arrivalTime": "16:45",
+            "flightName": "AirAsia",
+            "From": {
+              "value": "Chennai (MAA)"
+            },
+            "To": {
+              "value": "Bengaluru (BLR)"
+            },
+            "price": "5614",
+            "returnPrice": "13524"
+          }
+        ]
+      },
+      {
+        "3": [
+          {
+            "id": "9",
+            "departureDate": "2020-08-20",
+            "arrivalDate": "2020-08-21",
+            "img": "https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/AI.png?v=6",
+            "departureTime": "10:05",
+            "arrivalTime": "18:20",
+            "flightName": "AirIndia",
+            "From": {
+              "value": "Chennai (MAA)"
+            },
+            "To": {
+              "value": "Ahmedabad (AMD)"
+            },
+            "price": "7510",
+            "returnPrice": "12751"
+          },
+          {
+            "id": "10",
+            "departureDate": "2020-08-20",
+            "arrivalDate": "2020-08-21",
+            "img": "https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/I5.png?v=6",
+            "departureTime": "9:25",
+            "arrivalTime": "16:45",
+            "flightName": "AirAsia",
+            "From": {
+              "value": "Chennai (MAA)"
+            },
+            "To": {
+              "value": "Ahmedabad (AMD)"
+            },
+            "price": "6851",
+            "returnPrice": "15178"
+          },
+          {
+            "id": "11",
+            "departureDate": "2020-08-20",
+            "arrivalDate": "2020-08-21",
+            "img": "https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/SG.png?v=6",
+            "departureTime": "15:25",
+            "arrivalTime": "21:15",
+            "flightName": "Spicejet",
+            "From": {
+              "value": "Chennai (MAA)"
+            },
+            "To": {
+              "value": "Ahmedabad (AMD)"
+            },
+            "price": "3512",
+            "returnPrice": "18475"
+          }
+        ]
+      }
+    ]
+  }
+]

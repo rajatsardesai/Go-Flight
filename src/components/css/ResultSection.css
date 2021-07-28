@@ -1,0 +1,129 @@
+.make__flex {
+  display: flex;
+}
+
+.space__between {
+  justify-content: space-between;
+}
+
+.slideContainer {
+  width: 100%;
+  margin: 20px auto;
+  text-align: center;
+  display: block;
+}
+
+.slideContainer>p{
+  color: #fff;
+}
+
+.slider {
+  width: 80%;
+  height: 15px;
+  border-radius: 5px;
+  background: #d3d3d3;
+  outline: none;
+  opacity: 0.7;
+  transition: opacity 0.15s ease-in-out;
+}
+
+.slider:hover {
+  opacity: 1;
+}
+
+.flightBody {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  padding-top: 20px;
+}
+
+.flights__container {
+  width: 80%;
+  margin: 0 auto;
+  position: relative;
+}
+
+.listingcard__wrap {
+  box-shadow: 0 3px 30px 0 rgb(0 0 0 / 10%);
+  border-radius: 2px;
+  background: #fff;
+  margin-bottom: 35px;
+  overflow: hidden;
+}
+
+.listing__card {
+  padding: 16px 20px;
+  border-bottom: 1px solid #eaeaea;
+  background: #fff;
+  border-radius: 2px;
+  position: relative;
+}
+
+.flight__name {
+  margin-right: 15px;
+  align-items: center;
+  justify-content: center;
+}
+
+.flight__name > img {
+  width: 32px;
+  height: 32px;
+}
+
+.flight__name > span {
+  margin-left: 10px;
+  width: 100px;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+  font-weight: 700;
+}
+
+.timing__section {
+  width: 100%;
+  border: 1px solid transparent;
+  padding: 5px 8px 5px 42px;
+  position: relative;
+  overflow: hidden;
+}
+
+.flight__timings {
+  margin: 0;
+  width: 582px;
+}
+
+.timing__options {
+  width: 100%;
+  border: 1px solid transparent;
+  padding: 5px 8px 5px 42px;
+  position: relative;
+  flex-direction: column;
+}
+
+.departure__timing {
+  font-weight: 900;
+  font-size: 18px;
+}
+
+.departure__city {
+  color: #4a4a4a;
+}
+
+.fill__section {
+  width: 100%;
+  position: relative;
+}
+
+.fill__line {
+  border-top: 3px solid rgb(245, 166, 34);
+  width: 70px;
+  height: 2px;
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin: auto;
+  top: 2px;
+  bottom: 0;
+  z-index: 1;
+}

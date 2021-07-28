@@ -1,0 +1,47 @@
+@media only screen and (max-width: 992px) {
+  .bgGradient {
+    background-size: 100% 923px;
+  }
+  .header__container {
+    text-align: center;
+  }
+
+  .searchSection__inner {
+    flex-direction: column;
+  }
+
+  .input__box {
+    width: 100% !important;
+  }
+
+  .search__btn {
+    margin-bottom: 0 !important;
+  }
+
+  .card__resp {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .flight__name {
+    margin-right: 0 !important;
+  }
+
+  .timing__section {
+    padding: 5px 8px 5px 8px !important;
+  }
+
+  .flight__timings {
+    width: 100% !important;
+  }
+
+  .timing__options {
+    padding: 5px 8px 5px 8px !important;
+  }
+}
+
+@media only screen and (max-width: 576px) {
+  .fill__line {
+    max-width: 70px;
+  }
+}
