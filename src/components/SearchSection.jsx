@@ -61,7 +61,7 @@ const SearchSection = () => {
             <div className="pageHeader make__flex">
                 <div className="header__container">
                     <a href="/#" className="header__logo">
-                        <img src="/img/logo.png" alt="Logo" />
+                        <img src={process.env.PUBLIC_URL + "/img/logo.png"} alt="Logo" />
                     </a>
                 </div>
             </div>
